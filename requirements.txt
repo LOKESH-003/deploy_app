@@ -22,6 +22,7 @@ cssselect==1.2.0
 cycler==0.12.1
 decorator==4.4.2
 defusedxml==0.7.1
+dlib==19.24.99
 distlib==0.3.8
 dlib @ file:///C:/Users/lokesh/Downloads/Dlib_Windows_Python3.x-main/Dlib_Windows_Python3.x-main/dlib-19.24.99-cp312-cp312-win_amd64.whl#sha256=20c62e606ca4c9961305f7be3d03990380d3e6c17f8d27798996e97a73271862
 easyocr==1.7.1
@@ -95,6 +96,7 @@ PyRect==0.2.0
 PyScreeze==1.0.1
 PySocks==1.7.1
 pytesseract==0.3.10
+Python==3.12.3
 python-bidi==0.4.2
 python-dateutil==2.9.0.post0
 pytweening==1.2.0
