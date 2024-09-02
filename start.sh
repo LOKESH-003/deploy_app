@@ -1,1 +1,1 @@
-gunicorn app:app -w --log-file -
+python3 -m gunicorn -w 4 app:app
